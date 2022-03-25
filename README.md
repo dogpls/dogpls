@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gomez
-- ❤️ I’m interested in programming, homelab stuff, weightlifting, guitar and coffee.
+- ❤️ I’m interested in programming, homelab stuff, simracing, guitar and coffee.
 - 🌱 I’m currently learning new technologies on my homelab built with old computers.
 - 📫 How to reach me: https://www.gomez.gq
 
