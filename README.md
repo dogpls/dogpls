@@ -9,8 +9,14 @@
 - 🌱 I’m currently learning new technologies on my homelab built with old computers.
 - 📫 How to reach me: https://www.gomez.gq [![Website gomez.gq](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.gomez.gq)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+
+(https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://github.com/dogpls/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogpls&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact&theme=blue-green" />
 </a>
   <!--- dogpls/dogpls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
