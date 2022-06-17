@@ -1,8 +1,7 @@
 
 # 👋 Hi, I’m __Gomez__
 
-![CodePen](https://img.shields.io/badge/Codepen-dogpls?style=for-the-badge&logo=codepen&logoColor=white)
-
+<a href="https://codepen.io/dogpls"><img src="https://img.shields.io/badge/Codepen-dogpls?style=for-the-badge&logo=codepen&logoColor=white"></a>
 
 
 
