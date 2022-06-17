@@ -1,9 +1,9 @@
 
 # 👋 Hi, I’m __Gomez__
 
-<h2 align="center" <a align="center" href="https://gomez.gq/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio"></h2></a>
-
-<h2 align="center" <a href="https://codepen.io/dogpls"><img src="https://img.shields.io/badge/Codepen-dogpls?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></h2></a>
+<h2 align="center"> 
+  <a align="center" href="https://gomez.gq/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+  <a href="https://codepen.io/dogpls"><img src="https://img.shields.io/badge/Codepen-dogpls?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></h2></a>
 
 
 - ❤️ I’m interested in programming, homelab stuff, simracing, guitar, coffee, RE2, and Seinfeld.
