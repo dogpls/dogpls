@@ -4,7 +4,8 @@
 - 📫 How to reach me: https://www.gomez.gq
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+![Profile View Counter](https://komarev.com/ghpvc/?username=dogpls)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&theme=blue-green)
 
 <!---
 dogpls/dogpls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
