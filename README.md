@@ -1,4 +1,4 @@
-
+<!-- Sup -->
 # 👋 Hi, I’m __Gomez__
 
 <h2 align="center"> 
@@ -10,7 +10,6 @@
 - 📫 How to reach me: https://www.gomez.gq [![Website gomez.gq](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.gomez.gq)
 
 ## Tools and Languages
-
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"></a>
@@ -20,7 +19,6 @@
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 
 ---
-  
+
 <!-- FOOTER --> 
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact&theme=ocean_dark)](https://github.com/dogpls/github-readme-stats)
