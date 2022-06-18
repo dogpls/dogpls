@@ -22,4 +22,4 @@
 <!-- FOOTER -->
 --- 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact)](https://github.com/dogpls/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact&theme=nightowl)](https://github.com/dogpls/github-readme-stats)
