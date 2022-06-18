@@ -19,7 +19,7 @@
 <img alt="Vim" width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/vim-283379.png">
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img alt="GitHub" width="40px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png">
-<img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+<img alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png">
 
 ---
 
