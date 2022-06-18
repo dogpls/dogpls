@@ -22,5 +22,5 @@
 
 <!-- FOOTER --> 
   <a href="https://github.com/dogpls/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogpls&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact&theme=ocean_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact&theme=ocean_dark">
 </a>
