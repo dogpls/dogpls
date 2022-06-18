@@ -24,5 +24,5 @@
 
 <!-- FOOTER --> 
   <a href="https://github.com/dogpls/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact&theme=ocean_dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact&theme=blue_green">
 </a>
