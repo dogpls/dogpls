@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning new technologies on my homelab built with old computers and going through freeCodeCamps curriculum.
 - ❤️ I like programming, homelab stuff, simracing, guitar, coffee, RE2, and Seinfeld.
-- 📫 How to reach me: https://www.gomez.gq [![Website gomez.gq](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.gomez.gq)
+- 📫 How to reach me: https://www.gomez.gq - [![Website gomez.gq](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.gomez.gq)
 
 <h2 align="center"> Tools and Languages</h2>
 <p align="center">
