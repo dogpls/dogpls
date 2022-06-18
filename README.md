@@ -4,7 +4,7 @@
 <h2 align="center"> 
   <a href="https://gomez.gq/"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://codepen.io/dogpls"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></h2></a>
----
+  
 ## About me
 
 - 🌱 I’m currently learning new technologies on my homelab built with old computers and going through freeCodeCamps curriculum.
