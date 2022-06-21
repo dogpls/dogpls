@@ -1,6 +1,7 @@
 <!-- Sup -->
-# 👋 Hi, I’m __Gomez__
-Sysadmin | Future Developer
+# 👋 Hi, I’m __Gomez__ 
+Sysadmin | Future Developer <br>
+
 <h2 align="center"> 
   <a href="https://gomez.gq/"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://codepen.io/dogpls"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></h2></a>
