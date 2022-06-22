@@ -1,5 +1,7 @@
 <!-- Sup -->
-# 👋 Hi, I’m __Gomez__ 
+<h1 align="center">👋 Hi, I’m __Gomez__
+Sysadmin
+</h1> 
 
 <h2 align="center"> 
   <a href="https://gomez.gq/"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
