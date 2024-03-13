@@ -10,7 +10,7 @@
 
 - 🌱 I’m always learning new technologies on my homelab and going through freeCodeCamps curriculum.
 - ❤️ I like programming, homelab stuff, simracing, and Seinfeld.
-- 📫 How to reach me: https://www.iamgomez.com
+- 📫 How to reach me: https://www.iamgomez.com | Anthony@iamgomez.com
 
 <h2 align="center"> Tools and Languages</h2>
 <p align="center">
