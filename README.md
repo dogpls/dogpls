@@ -5,12 +5,11 @@
 <h2 align="center"> 
   <a href="https://iamgomez.com/"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://codepen.io/dogpls"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></h2></a>
-  
 <h2 align="center"> About me</h2>
 
 - 🌱 I’m always learning new technologies on my homelab and I am going through freeCodeCamps curriculum.
 - ❤️ I like programming, homelab stuff, simracing, and Seinfeld.
-- 📫 How to reach me: https://www.iamgomez.com | anthony@iamgomez.com
+- 📫 How to reach me: https://iamgomez.com | anthony@iamgomez.com
 
 <h2 align="center"> Tools and Languages</h2>
 <p align="center">
@@ -22,7 +21,6 @@
 <img alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png">
 
 ---
-
 <!-- FOOTER --> 
   <a href="https://github.com/dogpls/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogpls&layout=compact&theme=blue-green">
