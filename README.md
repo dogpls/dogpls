@@ -18,7 +18,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a>
 <img alt="Vim" width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/vim-283379.png">
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png">
+<img alt="Git" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3253808%2Fgit-icon-icon-md.png&f=1&nofb=1&ipt=cf7478cc37e3daa0c39ed5c23f84d6895f40457533ddc11c7cd7265291c52dd7">
 
 ---
 <!-- FOOTER --> 
