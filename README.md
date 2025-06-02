@@ -8,7 +8,7 @@
 <h2 align="center"> About me</h2>
 
 - 🌱 I’m always learning new technologies on my homelab and I am going through freeCodeCamps curriculum.
-- ❤️ I like programming, homelab stuff, simracing, and Seinfeld.
+- ❤️ I like programming, homelab stuff, and guitar.
 - 📫 How to reach me: https://iamgomez.com
 
 <h2 align="center"> Tools and Languages</h2>
