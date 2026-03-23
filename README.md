@@ -7,7 +7,7 @@
   <a href="https://codepen.io/dogpls"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></h2></a>
 <h2 align="center"> About me</h2>
 
-- 🌱 I’m always learning new technologies on my homelab and I am going through freeCodeCamps curriculum.
+- 🌱 Learning new tech by deploying it in my homelab and seeing what survives.
 - ❤️ I like programming, homelab stuff, and guitar.
 - 📫 How to reach me: https://anthonygomez.net
 
