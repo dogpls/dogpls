@@ -9,7 +9,7 @@
 
 - 🌱 I’m always learning new technologies on my homelab and I am going through freeCodeCamps curriculum.
 - ❤️ I like programming, homelab stuff, and guitar.
-- 📫 How to reach me: https://iamgomez.com
+- 📫 How to reach me: https://anthonygomez.net
 
 <h2 align="center"> Tools and Languages</h2>
 <p align="center">
