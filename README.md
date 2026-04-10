@@ -4,7 +4,6 @@
 
 <h2 align="center"> 
   <a href="https://anthonygomez.net/"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
-  <a href="https://codepen.io/dogpls"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></h2></a>
 <h2 align="center"> About me</h2>
 
 - 🌱 Learning new tech by deploying it in my homelab and seeing what survives.
