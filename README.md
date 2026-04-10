@@ -8,7 +8,7 @@
 
 - 🌱 Learning new tech by deploying it in my homelab and seeing what survives.
 - ❤️ I like programming, homelab stuff, and guitar.
-- 📫 How to reach me: https://anthonygomez.net
+- 📫 How to reach me: ✉️ anthony@anthonygomez.net
 
 <h2 align="center"> Tools and Languages</h2>
 <p align="center">
