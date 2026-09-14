@@ -1,5 +1,3 @@
-<a href="https://anthonygomez.net/"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
-
 <div id="user-content-toc">
 <ul align="center" style="list-style: none;">
 <summary>
@@ -12,6 +10,7 @@
 <summary>
 <h2><b>About me</b></h2>
 </summary>
+<a href="https://anthonygomez.net/"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
 
 - 🌱 Learning new tech by deploying it in my homelab and seeing what survives.
 - ❤️ I like programming, and building out a cool homelab.
