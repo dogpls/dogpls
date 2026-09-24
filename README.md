@@ -14,7 +14,8 @@
 
 - 🌱 Learning new tech by deploying it in my homelab and seeing what survives.
 - ❤️ I like programming, and building out a cool homelab.
-- 📫 How to reach me: ✉️ anthony@anthonygomez.net
+- 📫 How to reach me:
+anthony@anthonygomez.net
   </ul>
   </div>
 
