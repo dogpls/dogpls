@@ -27,7 +27,7 @@ anthony@anthonygomez.net
 </summary>
   </div>
 <p>
-  
+
   <img alt="html5 mini icon" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img alt="css3 mini icon" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img alt="javascript mini icon" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -35,11 +35,12 @@ anthony@anthonygomez.net
   <img alt="typescript mini icon" width="40px" height="40px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png">
   <img alt="vim mini icon" width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/vim-283379.png">
   <img alt="emacs mini icon" width="40px" height="40px" src="https://www.svgrepo.com/show/373580/emacs.svg">
-  <img alt="firefox developer tools mini icon" width="40px" height="40px" src="https://www.svgrepo.com/show/378808/firefox-developer-edition-57-70.svg">
   <img alt="visual studio code mini icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+  <img alt="firefox developer tools mini icon" width="40px" height="40px" src="https://www.svgrepo.com/show/378808/firefox-developer-edition-57-70.svg">
   <img alt="git mini icon" width="40px" src="https://www.svgrepo.com/show/452210/git.svg">
   </p>
-  </ul>
+   </ul>
+
 ---
 
 <!-- FOOTER -->
