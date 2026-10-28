@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Gomez! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJjZ2hzNmk5c2J5dzFneHpsZmd0bTk4MmYybW5hcG83d3g0eGdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWs0Ro475O6yLbw40q/giphy.gif" width="50"></h1>
+<h1>Hi, I'm Gomez! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVlaGdpdmt1aWRwbzRjZTJmamN3c2l3MzlhN2psejk4aG1mMjlyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ddlLwnybRVJ3ey2t7Z/giphy.gif" width="50"></h1>
   
 <a href="https://anthonygomez.net/"><img src="https://img.shields.io/badge/PORTFOLIO-orangered?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
 
