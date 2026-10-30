@@ -14,7 +14,7 @@
 
 ## DevOps & Sysadmin Technologies ☁️ 🔒 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,linux,windows, powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,linux,windows,powershell)](https://skillicons.dev)
 
 ---
 
