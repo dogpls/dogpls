@@ -8,13 +8,13 @@
 <a href="mailto:anthony@anthonygomez.net
 " target="_blank"><img src="https://www.svgrepo.com/show/245555/email-mail.svg" width="30" height="30">Email Me</a>
 
-## 💻 🎨 Frontend Technologies
+## Frontend Technologies 💻 🎨
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,vue,typescript)](https://skillicons.dev)
 
-## 💻 🎨 DevOps&Sysadmin Technologies
+## DevOps & Sysadmin Technologies ☁️ 🔒 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,linux,windows, powershell)](https://skillicons.dev)
 
 ---
 
