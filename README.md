@@ -12,6 +12,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,vue,typescript)](https://skillicons.dev)
 
+## 💻 🎨 DevOps&Sysadmin Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,linux,windows)](https://skillicons.dev)
+
 ---
 
 ![Top Languages](https://ghstats.dev/api/langs?username=dogpls&theme=gruvbox&max_langs=12)
