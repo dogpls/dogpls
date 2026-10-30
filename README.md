@@ -6,9 +6,9 @@
 - 📚 I'm constantly learning and staying updated on Full Stack Technologies + DevOps
 - 📫 How to reach me:
 <a href="mailto:anthony@anthonygomez.net
-" target="_blank"><img src="https://www.svgrepo.com/show/245555/email-mail.svg" width="30" height="30"></a>
+" target="_blank"><img src="https://www.svgrepo.com/show/245555/email-mail.svg" width="30" height="30">Email Me</a>
 
-## Frontend Technologies 💻 🎨
+## 💻 🎨 Frontend Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,vue,typescript)](https://skillicons.dev)
 
